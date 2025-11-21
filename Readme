@@ -1,3 +1,126 @@
-<h1><b>Crafizone Meta Ads Case Study</b></h1>
-<h2><b>Project Overview</b></h2>
-<h3><b>Challenges Faced</b></h3>
+<h1 align="left">Meta Ads Case Study</h1>
+
+###
+
+<p align="left">How I Transformed a Failing Ad Account Into a Sales-Generating Ecosystem (Meta Ads Case Study)<br><br>Brand: Crafizone — Wooden Kitchen & Home Décor E-commerce Store<br>Role: Meta Ads Specialist<br>Project Type: Client work<br>Industry: E-commerce (Home & Kitchen Wooden Products)</p>
+
+###
+
+<h1 align="left">1. Project Overview</h1>
+
+###
+
+<p align="left">Crafizone is a new e-commerce store selling handmade wooden kitchen utensils, décor items, boxes, and home accessories. Before approaching me, the client had already run ads but:<br><br>❌ Got zero sales<br>❌ Had no tracking system<br>❌ Had no Meta Pixel installed<br>❌ Had no event tracking<br>❌ Had weak targeting and poor setup<br><br>Their ads were running blind, without data or optimization.<br><br>The client approached me to set up a complete Meta Ads infrastructure and launch a new sales campaign built on a proper funnel strategy.</p>
+
+###
+
+<h2 align="left">2. Objectives</h2>
+
+###
+
+<p align="left">Primary Goals<br>Increase sales through a structured sales campaign<br>Increase website traffic<br>Improve social media reach & visibility</p>
+
+###
+
+<h2 align="left">Secondary Goals</h2>
+
+###
+
+<p align="left">Build proper Meta tracking system<br>Create data foundation for future retargeting<br>Establish professional ad account structure</p>
+
+###
+
+<h2 align="left">3. Challenges Identified</h2>
+
+###
+
+<p align="left">Issues Before My Work	Impact<br>No pixel installed	No tracking, no optimization<br>No events created	No data on AddToCart, ViewContent, Purchases<br>Ads previously run with no strategy	Zero results<br>No proper audience targeting	Low CTR<br>No funnel strategy	No awareness, no retargeting loop</p>
+
+###
+
+<h2 align="left">4.1 Created Business Portfolio — Full</h2>
+
+###
+
+<p align="left">Detailed Description<br>[Screenshot Here]<br>To begin the project, I created a dedicated Business Portfolio for Crafizone inside Meta Business Manager. This setup is essential for maintaining a clean structure, especially for brands that plan to scale. The portfolio acts as the foundation where all business assets (Pages, Pixel, Ad Accounts, Catalog, and Instagram account) are stored in one secure location.<br>I assigned the correct roles, granted the needed permissions, and ensured the asset ownership belonged to the Business Portfolio — not to personal profiles. This prevents future access issues and ensures the client maintains full control. Establishing a well-organized business portfolio also helped in creating a scalable environment for future retargeting and remarketing funnels.</p>
+
+###
+
+<h2 align="left">📌 4.2 Created & Configured the Ad</h2>
+
+###
+
+<p align="left">Account<br>[Screenshot Here]<br>Next, I created a brand-new ad account for Crafizone, since the previous campaigns were running from an improperly configured account. I carefully selected the correct time zone, currency (PKR), and business information, which are necessary for proper reporting and billing.<br>After that, I aligned the ad account with the business portfolio and assigned permissions like Admin access, Analyst access, and Advertiser access. This structured approach ensures transparent tracking, smooth billing, and consistent campaign control. A misconfigured ad account often leads to reporting errors, so setting it up from scratch allowed me to avoid all previous mistakes the client suffered from.</p>
+
+###
+
+<h2 align="left">📌 4.3 Added the Payment Method<br>.</h2>
+
+###
+
+<p align="left">[Screenshot Here]<br>To ensure the campaigns run without interruptions, I added and verified the payment method. I also checked the billing threshold and payment cycle to make sure Facebook wouldn’t stop delivery due to payment failures.<br>This setup is often overlooked but is crucial for maintaining campaign stability. A reliable payment method ensures the campaign delivers smoothly without “ad stopped due to payment issue” errors, which can cause the algorithm to reset and lose learning signals.📌 4.4 Installed Meta Pixel on Website<br>[Screenshot Here]<br>The client had no pixel installed previously, meaning all ads were running blind. I created a fresh Meta Pixel inside Events Manager and integrated it with the website.<br>I tested the pixel installation using Meta Pixel Helper to confirm that it was firing on every webpage. The installation of pixel instantly enabled Crafizone’s website to begin collecting valuable data such as user behavior, page visits, product interests, and more.<br>This was a critical step because without pixel, the system cannot optimize ads or run sales-focused campaigns effectively</p>
+
+###
+
+<h2 align="left">4.5 Setup Events (ViewContent,</h2>
+
+###
+
+<p align="left">AddToCart, InitiateCheckout, Purchase)<br><br>After installing the pixel, I configured standard events that are essential for any e-commerce funnel. These include:<br>ViewContent<br>AddToCart<br>InitiateCheckout<br>Purchase<br>Each event was tested to ensure proper triggering.<br>Before my setup, the client had no visibility into how many users added items to their cart, viewed products, or attempted checkout. With events installed, Meta can now track user actions, optimize for people most likely to purchase, and build accurate retargeting audiences.<br>This step alone significantly increases the efficiency of all future campaigns.</p>
+
+###
+
+<h2 align="left">📌 4.6 Verified Domain</h2>
+
+###
+
+<p align="left">[Screenshot Here]<br>Domain verification is a requirement under Meta’s Aggregated Event Measurement system. I completed the DNS verification for Crafizone’s domain, which allowed us to prioritize conversion events.<br>By verifying the domain, we also established trust and ownership of the website with Meta, preventing unauthorized use of the domain in ads and ensuring smoother optimization for conversion-based objectives.<br>This step is critical for running Sales, Conversion, and Retargeting campaigns.</p>
+
+###
+
+<h2 align="left">📌 4.7 Created the Sales Campaign</h2>
+
+###
+
+<p align="left">[Screenshot Here]<br>The client’s goal was to generate sales and increase website traffic, so I built a well-structured Sales Objective Campaign.<br>This is the most effective campaign type for e-commerce because it uses conversion optimization, allowing Meta’s algorithm to show ads to users most likely to purchase.<br>I also chose the “Conversion” optimization event and connected it with the Purchase Pixel Event to guide the algorithm directly towards buyers.<br>Unlike the client’s previous poorly set-up campaigns, this structure ensured all ads fed data back into Meta’s learning system, improving performance consistently.</p>
+
+###
+
+<p align="left">📌 4.8 Created Ad Sets (Deep Interest-Based Targeting)</p>
+
+###
+
+<p align="left">Screenshot Here]<br>Since Crafizone was a new store with no previous data (no pixel history, no custom audiences), I built interest-based audiences targeting users interested in:<br>Interior design<br>Home décor<br>Wooden products<br>Kitchen tools<br>Handmade crafts<br>Artisanal items<br>Gift boxes<br>Eco-friendly homeware<br><br>Each ad set was created with a different interest cluster to avoid overlap and allow A/B testing.<br>I set the placements to Automatic Placements, which allows Meta to optimize delivery across Facebook, Instagram, Feed, Reels, Stories, Marketplace, and more.<br>Through audience segmentation, I made sure we could identify which user groups responded best.<br><br>📌 4.9 Created High-Quality Ad Creatives (Images, Copywriting, Hooks)<br><br>[Screenshot Here]<br>To grab attention, I developed professional ad creatives highlighting the uniqueness of Crafizone’s wooden products. These creatives focused on:<br>Product quality<br>Handmade craftsmanship<br>Eco-friendliness<br>Aesthetic home décor value<br><br>Kitchen utility<br><br>I used strong hooks, emotional triggers, and clear call-to-actions (Shop Now, View Collection).<br>Good creatives significantly reduce CPC and increase CTR — which directly improves campaign performance and sales.<br><br>4.10 Daily Monitoring & Performance Marketing<br><br>[Insert Screenshot Here]<br><br>I applied data-driven performance marketing strategies throughout the campaigns:<br><br>- Pixel & Event Tracking: All events (ViewContent, AddToCart, Purchase) were tracked...<br>- Budget Optimization: Daily budgets monitored and adjusted...<br>- A/B Testing: Tested multiple creatives, copies, and audience segments...<br>- Placement Optimization: Automatic placements to optimize delivery...<br>- Scaling: Gradually increased budget for high-performing ads...<br>- Analytics & Reporting: Weekly reports to track ROI and KPIs...<br><br><br>Breakdown by placement (Reels, Feed, Stories)<br>Under performance-based monitoring, I paused underperforming ad sets and scaled the ones performing better.<br>I optimized budgets, refreshed creatives when needed, and adjusted audiences to keep performance strong.<br>This ongoing optimization helped stabilize the campaign and achieve consistent sales.<br><br><br> Funnel-Driven & Performance Marketing Approach<br><br>[Insert Funnel Diagram / Screenshot Here]<br><br>For Crafizone, I implemented a full marketing funnel to move users from awareness to conversion.</p>
+
+###
+
+<img align="left" height="200" src="file:///C:/Users/Administrator/Pictures/Screenshots/Screenshot%202025-11-20%20183533.png"  />
+
+###
+
+<div align="center">
+  <img height="200" src="file:///C:/Users/Administrator/Pictures/Screenshots/Screenshot%202025-11-20%20183533.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pic.pic&"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pic/pic/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pic/pic/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pic/pic/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
