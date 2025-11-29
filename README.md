@@ -1,51 +1,53 @@
-## Meta Ads Case Study – CrafiZone.com
+#  Meta Ads Case Study – CrafiZone.com
 
-Project Overview
+##  Project Overview
 CrafiZone.com is an e-commerce store selling handcrafted wooden products such as kitchen utensils, decor items, and gift boxes.  
 The client had previously run Meta Ads, but the setup was incomplete — **no pixel, no event tracking, and no structured funnel**.  
 
-This case study demonstrates how I rebuilt the account from scratch, implemented a 
-performance-driven Meta Ads strategy, and optimized the sales funnel for measurable results.
+This case study demonstrates how I rebuilt the account from scratch, implemented a **performance-driven Meta Ads strategy**, and optimized the sales funnel for measurable results.
 
-Objective
+---
+
+##  Objective
 - Increase website traffic from social media  
 - Improve sales and conversions  
 - Implement a full-funnel performance marketing strategy  
 
+---
 
-Challenges
-- Previous campaigns were not generating sales 
-- Pixel and event tracking were missing
+##  Challenges
+- Previous campaigns were **not generating sales**  
+- **Pixel and event tracking were missing**  
 - Lack of a structured funnel (Awareness → Consideration → Conversion)  
-- Client expected **measurable results quickly  
+- Client expected **measurable results quickly**  
 
 ---
 
- Strategy & Approach
+##  Strategy & Approach
 
-1. Account Audit & Setup
+### 1. Account Audit & Setup
 - Evaluated existing campaigns  
 - Installed and configured **Meta Pixel**  
 - Set up **custom events** to track key actions (Add-to-Cart, Purchases, View Content)  
 
-2. Funnel-Based Campaigns
-- Awareness Campaigns:Interest-based targeting  
-- Consideration Campaigns: Retargeted website visitors and engagement audiences  
-- Conversion Campaigns: Optimized for purchases using lookalike audiences  
+### 2. Funnel-Based Campaigns
+- **Awareness Campaigns:** Interest-based targeting  
+- **Consideration Campaigns:** Retargeted website visitors and engagement audiences  
+- **Conversion Campaigns:** Optimized for purchases using lookalike audiences  
 
-3. Audience Targeting & Segmentation
+### 3. Audience Targeting & Segmentation
 - Initial interest-based targeting  
 - Added **behavioral and lookalike audiences** after data collection  
 - Segmented by age, location, and engagement  
 
-4. Performance Optimization
+### 4. Performance Optimization
 - Monitored KPIs daily: CTR, ROAS, CPC, Add-to-Cart rate  
 - Iterative A/B testing on creatives and ad copy  
 - Budget scaled gradually for top-performing campaigns  
 
+---
 
-
-Results (Approximate)
+## 📊 Results (Approximate)
 | Metric               | Result         |
 |---------------------|----------------|
 | Website Reach        | 35,000+        |
@@ -54,8 +56,13 @@ Results (Approximate)
 | ROAS (Return on Ad Spend) | 4.5x        |
 | Total Conversions    | 120+           |
 
+> *Note: Numbers are approximate.*
+ 
 
-Screenshots
+
+
+
+## Screenshots
 
 Business Portfolio Setup 
 https://github.com/iqrabatool1/Meta-Ads-Crafizone/blob/main/Screenshot%202025-11-29%20164920.png
@@ -68,17 +75,19 @@ https://github.com/iqrabatool1/Meta-Ads-Crafizone/blob/main/Screenshot%202025-11
 
 ---
 
-Key Learnings
+## Key Learnings                                                                                                             
 - Proper tracking is critical for performance marketing  
 - Funnel-based campaigns improve conversion efficiency  
 - Iterative optimization and audience segmentation lead to measurable ROI  
 - New campaigns can scale quickly with data-driven strategies
 
----
-
-Skills & Tools Used
+- 
+## Skills & Tools Used
 - Meta Ads / Facebook Ads Manager  
 - Meta Pixel & Event Setup  
 - Audience Targeting & Lookalike Audiences  
 - Performance Marketing & Campaign Optimization  
 - Data Analysis & Reporting  
+
+
+
