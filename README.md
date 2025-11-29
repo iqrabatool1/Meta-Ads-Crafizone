@@ -63,15 +63,22 @@ This case study demonstrates how I rebuilt the account from scratch, implemented
 
 
 ## Screenshots
-
-Business Portfolio Setup 
-https://github.com/iqrabatool1/Meta-Ads-Crafizone/blob/main/Screenshot%202025-11-29%20164920.png
-
-Meta Pixel & Event Setup 
-https://github.com/iqrabatool1/Meta-Ads-Crafizone/blob/main/Screenshot%202025-11-29%20164825.png
-
-Funnel & Campaign Dashboard  
-https://github.com/iqrabatool1/Meta-Ads-Crafizone/blob/main/Screenshot%202025-11-29%20164749.png
+<table>
+  <tr>
+    <td align="center">
+      <strong>Business Portfolio Setup</strong><br>
+      <img src="https://github.com/iqrabatool1/Meta-Ads-Crafizone/raw/main/Screenshot%202025-11-29%20164920.png" width="300">
+    </td>
+    <td align="center">
+      <strong>Meta Pixel & Event Setup</strong><br>
+      <img src="https://github.com/iqrabatool1/Meta-Ads-Crafizone/raw/main/Screenshot%202025-11-29%20164825.png" width="300">
+    </td>
+    <td align="center">
+      <strong>Funnel & Campaign Dashboard</strong><br>
+      <img src="https://github.com/iqrabatool1/Meta-Ads-Crafizone/raw/main/Screenshot%202025-11-29%20164749.png" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
